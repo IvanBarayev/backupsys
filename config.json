@@ -1,0 +1,7 @@
+{
+  "dbhost": "localhost",
+  "dbport": 3306,
+  "dbuser": "databaseuser",
+  "dbpass": "databasepassword",
+  "sslsup": "http"
+}
